@@ -457,7 +457,7 @@ ul.sub-menu {
 }
 
 .home-two #home-banner {
-    background-image: url(../images/bg/2.png);
+    background-image: url(../images/bg/690x823.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
@@ -469,7 +469,7 @@ ul.sub-menu {
 }
 
 .banner-info h2 {
-    font-size: 128px;
+    font-size: 70px;
     margin-top: 0;
     line-height: 92px;
     margin-left: -8px;
@@ -478,7 +478,7 @@ ul.sub-menu {
 .banner-info h3 {
     font-size: 16px;
     text-transform: uppercase;
-    letter-spacing: 26px;
+    letter-spacing: 2px;
 }
 
 /* Home Two  */
